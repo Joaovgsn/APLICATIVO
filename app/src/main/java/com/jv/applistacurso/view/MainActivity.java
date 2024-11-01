@@ -1,8 +1,10 @@
-package com.jv.applistacurso;
+package com.jv.applistacurso.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.jv.applistacurso.R;
 
 public class MainActivity extends AppCompatActivity {
 
